@@ -4,10 +4,12 @@ For the past couple of weeks I have been learning how to develop games. To pract
 
 I've created a game where the player is a witch who collects potions and has to reach a cauldron at the end of the level. To jump the player presses space bar. Right and left arrow keys move the player left and right. Be careful and don't fall in the water or the level will start over.
 
+Before running the program the main, all files in the assets folder, and level data files need to be downloaded. Run the main.py file to start the game. 
+
 The purpose of writing this software was to practice my knowledge of using classes while using the python language. I also wanted to learn how to animate images on a display that could collide with objects and also collect items.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/cs6ZjQcyIvk)
 
 # Development Environment
 
