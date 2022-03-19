@@ -59,7 +59,7 @@ pygame.mixer.music.play(-1, 0.0, 5000)
 tile_size = 50
 game_over = 0
 main_menu = True
-level = 3
+level = 1
 max_levels = 3
 score = 0
 
@@ -410,7 +410,7 @@ while run:
                 world = reset_level(level)
                 game_over = 0
             else:
-                draw_text('You Win!', font, BLACK,(screen_width // 2) - 200, screen_height // 4)
+                draw_text('You Win!', font, PINK,(screen_width // 2) - 200, screen_height // 4)
                 # win_sound.play()
                 # restart game
                 if restart_button.draw():
